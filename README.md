@@ -1,2 +1,3 @@
 # CodeAlpha_Python_Internship
-Python Programming Internship Tasks – CodeAlpha
+Task 1 – Hangman Game
+A simple text-based Hangman game developed using Python.
