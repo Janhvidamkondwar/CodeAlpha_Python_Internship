@@ -16,4 +16,15 @@ random module
 -Displays You Won! when the word is guessed
 -Displays Game Over! when all attempts are used
 
+Task 2 – Stock Portfolio Tracker
+
+A simple Python project that calculates stock investment value and total portfolio value.
+ 🛠️ Technologies Used
+- Python
+ ✨ Features
+- Enter stock name and quantity
+- Calculate stock value
+- Calculate total investment
+- Display portfolio details
+
 
