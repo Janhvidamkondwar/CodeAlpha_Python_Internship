@@ -27,4 +27,13 @@ A simple Python project that calculates stock investment value and total portfol
 - Calculate total investment
 - Display portfolio details
 
+Task 3 – Task Automation
+
+A Python automation script that automatically moves `.jpg` files from one folder to another.
+
+ Technologies Used
+- Python
+- os
+- shutil
+
 
